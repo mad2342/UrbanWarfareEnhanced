@@ -1,10 +1,13 @@
 {
-    "Name": "Enhancements and additions for BTG Urban Warfare Expansion",
-    "Version": "0.0.1",
-	"Author": "Mad",
+    "Name": "UrbanWarfareEnhanced",
     "Enabled": true,
-	"Manifest": [
-		{ "Type": "ChassisDef", "Path": "ChassisDefs\\" },
-		{ "Type": "MechDef", "Path": "MechDefs\\" }
+    
+    "Version": "1.8.1",
+    "Description": "Enhancements and additions for BTG Urban Warfare Expansion.",
+    "Author": "Mad",
+    
+    "Manifest": [
+        { "Type": "ChassisDef", "Path": "ChassisDefs\\" },
+        { "Type": "MechDef", "Path": "MechDefs\\" }
     ]
 }
